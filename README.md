@@ -1,4 +1,6 @@
-# Insights Report Generator
+# Twingate Insights Report Generator
+
+
 
 This repository contains a python notebook that can be used to generate insights reports from Network Events exports.
 
@@ -7,7 +9,7 @@ Those reports are useful for many reasons, including answering questions for cus
 - which are my most active resources?
 - which resources create the most errors for end users?
 - which resources are no longer required?
-- which resources create the most traffic
+- which resources create the most traffic?
 - which services are being accessed, on which port(s) and protocol(s)?
 - which addresses are served by more than 1 Resource?
 - which addresses are served by more than 1 Remote Network?
